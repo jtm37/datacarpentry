@@ -89,6 +89,6 @@ being able to drive them is becoming a necessary skill.
     its support for automating repetitive tasks,
     and that it can be used to access networked machines.
 *   The shell's main disadvantages are its primarily textual nature
-    and how cryptic its commands and operation can be.
+    and how cryptic its commands and operation can be (jtm was here).
 
 </div>
